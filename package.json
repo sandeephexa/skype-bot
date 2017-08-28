@@ -1,0 +1,15 @@
+{
+  "name": "skype-bot",
+  "version": "1.0.0",
+  "description": "adds user and device ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep kumar",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  }
+}
