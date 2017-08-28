@@ -2,7 +2,7 @@
   "name": "skype-bot",
   "version": "1.0.0",
   "engines": {
-    "npm": "2.1.x"
+    "npm": "3.10.10"
   },
   "description": "adds user and device ",
   "main": "index.js",
